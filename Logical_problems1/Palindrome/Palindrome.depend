@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712094583 source:d:\cg\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+

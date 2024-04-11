@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712051808 source:d:\cg\2digitnumbertoword\main.c
+	<stdio.h>
+	<stdlib.h>
+

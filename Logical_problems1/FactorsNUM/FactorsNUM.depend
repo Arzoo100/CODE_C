@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712053148 source:d:\cg\factorsnum\main.c
+	<stdio.h>
+	<stdlib.h>
+
