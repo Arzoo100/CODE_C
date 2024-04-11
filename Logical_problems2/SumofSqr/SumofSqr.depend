@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712050894 source:d:\cg\sumofsqr\main.c
+	<stdio.h>
+	<stdlib.h>
+

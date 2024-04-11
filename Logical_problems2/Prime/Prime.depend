@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712005434 source:d:\cg\prime\main.c
+	<stdio.h>
+	<stdlib.h>
+
